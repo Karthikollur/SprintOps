@@ -8,8 +8,7 @@
 
 **A lightweight execution health dashboard for startup founders and small product teams.**
 
-<!-- Add your screenshot here -->
-<!-- ![SprintOps Dashboard](./assets/dashboard.png) -->
+![SprintOps Dashboard](./assets/dashboard.jpeg)
 
 > **Is execution healthy right now?**
 > SprintOps answers this question at a glance.
@@ -41,16 +40,32 @@ Password: sprintops123
 
 ---
 
-## Usage Snapshot
+## Screenshots
 
-| View | What You'll See |
-|------|-----------------|
-| **Dashboard** | Sprint completion %, active tasks, blocked count, open bugs |
-| **Tasks** | Kanban-style task management with status, priority, and assignees |
-| **Blockers** | All blocked tasks with reasons and time-blocked duration |
-| **Bugs** | Severity-sorted bug list with optional task linking |
-| **Analytics** | Tasks completed per day, bugs opened vs fixed, sprint velocity |
-| **Team** | Team members with Admin/Member roles |
+### Dashboard
+See sprint health at a glance — active tasks, blockers, bugs, and completion percentage.
+
+![Dashboard](./assets/dashboard.jpeg)
+
+### Tasks
+Full task management with status, priority, assignees, and due dates.
+
+![Tasks](./assets/tasks.jpeg)
+
+### Blockers
+Dedicated view for blocked tasks with reasons and time-blocked tracking.
+
+![Blockers](./assets/blockers.jpeg)
+
+### Bug Tracker
+Track bugs by severity with optional task linking.
+
+![Bugs](./assets/bugs.jpeg)
+
+### Analytics
+Visualize execution trends — tasks completed, bugs opened vs fixed, sprint progress.
+
+![Analytics](./assets/analytics.jpeg)
 
 ---
 
